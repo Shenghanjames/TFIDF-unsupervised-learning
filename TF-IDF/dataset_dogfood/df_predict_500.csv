@@ -24,7 +24,7 @@
 22|cheshirepetsupplies_028|mypetwarehouse_087|True
 23|mypetwarehouse_088|megapet_058|True
 24|mypetwarehouse_088|cheshirepetsupplies_061|True
-25|mypetwarehouse_088|miscota_164|False
+25|mypetwarehouse_088|miscota_164|True
 26|mypetwarehouse_175|megapet_101|True
 27|megapet_098|bigdogworld_020|True
 28|megapet_098|bibita_356|True
@@ -51,7 +51,7 @@
 49|petnutritioncenter_121|petsupplies_096|True
 50|megapet_086|cheshirepetsupplies_093|True
 51|cheshirepetsupplies_093|mypetwarehouse_130|True
-52|countrymax_115|healthypetcenter_304|False
+52|countrymax_115|healthypetcenter_304|True
 53|petnutritioncenter_222|roguevalleypet_173|True
 54|hardwarestore_050|horseandhound_145|False
 55|speckspets_006|healthypetcenter_110|False
@@ -68,8 +68,8 @@
 66|roguevalleypet_033|countrymax_028|True
 67|countrymax_025|roguevalleypet_034|True
 68|countrymax_053|healthypetcenter_152|True
-69|petnutritioncenter_223|countrymax_118|False
-70|healthypetcenter_310|hardwarestore_048|False
+69|petnutritioncenter_223|countrymax_118|True
+70|healthypetcenter_310|hardwarestore_048|True
 71|healthypetcenter_099|countrymax_020|False
 72|petsense_064|roguevalleypet_164|True
 73|countrymax_101|concordpetfoods_158|True
@@ -129,7 +129,7 @@
 127|cheshirepetsupplies_082|countrymax_101|False
 128|cheshirepetsupplies_085|cheshirepetsupplies_111|False
 129|cheshirepetsupplies_089|countrymax_101|False
-130|cheshirepetsupplies_096|healthypetcenter_298|False
+130|cheshirepetsupplies_096|healthypetcenter_298|True
 131|cheshirepetsupplies_111|cheshirepetsupplies_113|False
 132|cheshirepetsupplies_112|horseandhound_128|False
 133|cheshirepetsupplies_113|countrymax_092|False
@@ -177,9 +177,9 @@
 175|horseandhound_010|horseandhound_112|False
 176|horseandhound_011|petco_002|False
 177|horseandhound_012|petnutritioncenter_110|False
-178|horseandhound_046|petsense_011|False
+178|horseandhound_046|petsense_011|True
 179|horseandhound_049|petnutritioncenter_108|False
-180|horseandhound_050|petsense_011|False
+180|horseandhound_050|petsense_011|True
 181|horseandhound_065|miscota_268|False
 182|horseandhound_067|mypetwarehouse_075|False
 183|horseandhound_070|miscota_268|False
@@ -188,7 +188,7 @@
 186|megapet_052|miscota_102|False
 187|megapet_071|miscota_014|False
 188|megapet_074|mypetwarehouse_071|False
-189|megapet_076|miscota_339|False
+189|megapet_076|miscota_339|True
 190|megapet_077|miscota_339|True
 191|megapet_080|miscota_028|False
 192|megapet_082|miscota_014|False
@@ -256,8 +256,8 @@
 254|petnutritioncenter_117|petsupplies_050|False
 255|petsense_001|petsense_046|False
 256|petsense_002|petsense_013|False
-257|petsense_010|petsense_011|False
-258|petsense_011|petsense_021|False
+257|petsense_010|petsense_011|True
+258|petsense_011|petsense_021|True
 259|petsense_013|petsense_068|False
 260|petsense_021|petsupplies_002|False
 261|petsense_024|roguevalleypet_176|False
@@ -295,13 +295,13 @@
 293|roguevalleypet_174|roguevalleypet_176|False
 294|roguevalleypet_175|roguevalleypet_178|False
 295|roguevalleypet_176|roguevalleypet_177|False
-296|roguevalleypet_177|roguevalleypet_179|False
+296|roguevalleypet_177|roguevalleypet_179|True
 297|roguevalleypet_178|roguevalleypet_179|False
 298|roguevalleypet_179|roguevalleypet_180|True
-299|speckspets_006|speckspets_032|True
+299|speckspets_006|speckspets_032|False
 300|speckspets_010|speckspets_011|False
-301|speckspets_011|speckspets_032|True
-302|speckspets_032|speckspets_033|True
+301|speckspets_011|speckspets_032|False
+302|speckspets_032|speckspets_033|False
 303|speckspets_045|speckspets_048|False
 304|roguevalleypet_133|roguevalleypet_134|False
 305|roguevalleypet_134|roguevalleypet_163|False
@@ -363,7 +363,7 @@
 361|miscota_295|mypetwarehouse_118|True
 362|bibita_051|megapet_070|True
 363|bibita_029|megapet_059|True
-364|miscota_045|mypetwarehouse_189|False
+364|miscota_045|mypetwarehouse_189|True
 365|bigdogworld_024|miscota_332|True
 366|bibita_068|cheshirepetsupplies_011|True
 367|bibita_308|cheshirepetsupplies_011|True
@@ -372,10 +372,10 @@
 370|bigdogworld_029|mypetwarehouse_196|False
 371|bigdogworld_029|mypetwarehouse_197|False
 372|bibita_144|cheshirepetsupplies_082|False
-373|bibita_144|ROYAL CANIN MINI ADULT DOG FOOD 8KG|False
-374|miscota_294|megapet_080|False
+373|bibita_144|mypetwarehouse_118|False
+374|miscota_294|megapet_080|True
 375|miscota_294|bibita_220|True
-376|miscota_294|cheshirepetsupplies_046|True
+376|miscota_294|cheshirepetsupplies_046|False
 377|miscota_294|mypetwarehouse_118|True
 378|megapet_080|cheshirepetsupplies_082|False
 379|megapet_080|bibita_144|False
@@ -389,7 +389,7 @@
 387|mypetwarehouse_191|bigdogworld_026|True
 388|mypetwarehouse_191|bibita_151|True
 389|mypetwarehouse_191|megapet_107|True
-390|mypetwarehouse_191|miscota_045|False
+390|mypetwarehouse_191|miscota_045|True
 391|mypetwarehouse_087|bibita_376|False
 392|mypetwarehouse_087|miscota_239|False
 393|bibita_376|mypetwarehouse_071|False
@@ -407,7 +407,7 @@
 405|miscota_164|bibita_028|True
 406|miscota_165|cheshirepetsupplies_061|True
 407|miscota_165|megapet_058|True
-408|miscota_165|mypetwarehouse_088|False
+408|miscota_165|mypetwarehouse_088|True
 409|bibita_268|cheshirepetsupplies_060|True
 410|bibita_268|bigdogworld_009|True
 411|bibita_268|cheshirepetsupplies_061|True
@@ -461,13 +461,13 @@
 459|mypetwarehouse_156|miscota_149|True
 460|cheshirepetsupplies_085|miscota_149|True
 461|miscota_147|miscota_149|True
-462|megapet_095|bibita_199|False
+462|megapet_095|bibita_199|True
 463|mypetwarehouse_156|bibita_199|True
 464|cheshirepetsupplies_085|bibita_199|True
 465|miscota_147|bibita_199|True
 466|megapet_076|miscota_014|True
-467|miscota_016|mypetwarehouse_111|True
-468|mypetwarehouse_113|megapet_077|True
+467|miscota_016|mypetwarehouse_111|False
+468|mypetwarehouse_113|megapet_077|False
 469|megapet_065|miscota_163|True
 470|cheshirepetsupplies_064|miscota_163|True
 471|mypetwarehouse_095|miscota_163|True
